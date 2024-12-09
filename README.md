@@ -42,6 +42,7 @@ Moreover, attribution errors, such as the recent controversy regarding the origi
 <p align="justify">
 Through BatikLens, users can easily understand the name, regional origin, and meaning of each batik motif they encounter. This application not only serves as an educational tool but also as a means to introduce batik culture to the wider public. We hope this application can raise public awareness of the cultural value of batik, encourage greater appreciation, and support the preservation of Indonesia's cultural heritage. Thus, BatikLens supports a more inclusive world where everyone can understand and appreciate the richness of Indonesian culture without barriers.
 </p>
+
 ### Built With
 
 - [Android](https://www.android.com/)
