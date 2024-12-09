@@ -55,9 +55,9 @@ Through BatikLens, users can easily understand the name, regional origin, and me
 
 ### Repository
 
-1. [Difa Mobile App](https://github.com/BatikLensApp/MobileDevelopment)
-2. [Difa Beckend](https://github.com/BatikLensApp/CloudComputing)<br />
-3. [Difa ML](https://github.com/BatikLensApp/MachineLearning)
+1. [BatikLens Mobile App](https://github.com/BatikLensApp/MD-BatikLensApp)
+2. [BatikLens Backend](https://github.com/BatikLensApp/CC-BatikLensApp)<br />
+3. [BatikLens ML](https://github.com/BatikLensApp/ML-BatikLensApp)
 
 <!-- GETTING STARTED -->
 
@@ -69,8 +69,8 @@ Through BatikLens, users can easily understand the name, regional origin, and me
 2. Install on your Android devices.
 3. Sign Up using Google Accoun or create new account.
 4. Sing In and home will displayed the main content.
-5. after sign in you must update profile in profile page, if you using google account this step is optional.
-6. and then you can detection batik pattern and explore other available features!✨🎨
+5. After sign in you must update profile in profile page.
+6. Then you can detection batik pattern and explore other available features!✨🎨
 
 <!-- OUR TEAM -->
 
