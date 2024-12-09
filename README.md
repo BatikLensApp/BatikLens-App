@@ -76,12 +76,12 @@ Through BatikLens, users can easily understand the name, regional origin, and me
 
 ## Our Team
 
-| Name | Bangkit ID | Role |Github Profile |
+| Name | Bangkit ID | Role |Profile |
 | ------ | ------ | ------ | ------ |
 Ibra Sahrian Alsa | A546B4NY1894 | MD & PM |  
 Siti Nurhalizah | A156B4KX4176 | MD | 
 Ravy Ardian Kusuma | M001B4KY3704 | ML | 
-Nadya Mutia Safira | M156B4KX3212 | ML | 
+Nadya Mutia Safira | M156B4KX3212 | ML | https://github.com/NadyaMutia
 Dhea Fadhila Salsabila | M001B4KX1093 | ML | 
 Try Helviansyah | C546B4NY4367 | CC | 
 Mutiara Novitasari | C381B4KX3166 | CC | 
