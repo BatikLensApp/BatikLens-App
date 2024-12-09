@@ -68,15 +68,6 @@ Through BatikLens, users can easily understand the name, regional origin, and me
 4. Sing In and home will displayed the main content.
 5. after sign in you must update profile in profile page, if you using google account this step is optional.
 6. and then you can detection batik pattern and explore other available features!✨🎨
- - 
- - 
- - 
- - 
- - 
- - 
- - 
-
-
 
 <!-- OUR TEAM -->
 
