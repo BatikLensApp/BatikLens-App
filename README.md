@@ -6,9 +6,9 @@
   </a>
 
   <h3 align="center">BatikLens App</h3>
+  <p align="center">Slogan</p>
 
   <p align="center">
- ini buat slogan kita,
    This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
    Program.
     <br />
@@ -25,8 +25,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#background-the-Project">Background the Project</a>
-    </li>
+    <li><a href="#background-the-Project">Background the Project</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#our-team">Our Team</a></li>
   </ol>
