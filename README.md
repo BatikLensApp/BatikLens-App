@@ -6,7 +6,7 @@
   </a>
 
   <h3 align="center">BatikLens App</h3>
-  <p align="center">Slogan</p>
+  <p align="center">Crafting Stories with Batik</p>
 
   <p align="center">
    This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
