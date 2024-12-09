@@ -18,8 +18,6 @@
     <a href="">View Demo</a>
     ·
     <a href="">Slide Pressentation</a>
-    ·
-    <a href="">Request Feature</a>
   </p>
 </p>
 
