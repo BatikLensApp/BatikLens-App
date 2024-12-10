@@ -64,7 +64,7 @@ Through BatikLens, users can easily understand the name, regional origin, and me
 
 ### Installation
 
-1. Download Application [Download]()
+1. Download Application [Download](https://drive.google.com/drive/folders/1odF3C9LDv3druH4rMFAwMkVkN0P8m02p?usp=sharing)
 2. Install on your Android devices.
 3. Sign Up using Google Accoun or create new account.
 4. Sing In and home will displayed the main content.
@@ -84,4 +84,4 @@ Ravy Ardian Kusuma | M001B4KY3704 | ML |
 Nadya Mutia Safira | M156B4KX3212 | ML | https://github.com/NadyaMutia
 Dhea Fadhila Salsabila | M001B4KX1093 | ML | 
 Try Helviansyah | C546B4NY4367 | CC | 
-Mutiara Novitasari | C381B4KX3166 | CC | 
+Mutiara Novitasari | C381B4KX3166 | CC | https://www.linkedin.com/in/mutiara-novitasari-0ba060250/
