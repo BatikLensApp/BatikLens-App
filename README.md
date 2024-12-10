@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/DifaApp">
-    <img src="banner_new.png" alt="Logo">
+    <img src="Banner_new.jpg" alt="Logo">
   </a>
 
   <h3 align="center">BatikLens App</h3>
