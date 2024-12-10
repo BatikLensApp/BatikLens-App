@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/DifaApp">
+  <a href="https://github.com/BatikLensApp">
     <img src="Banner_new.jpg" alt="Logo">
   </a>
 
@@ -80,8 +80,8 @@ Through BatikLens, users can easily understand the name, regional origin, and me
 | ------ | ------ | ------ | ------ |
 Ibra Sahrian Alsa | A546B4NY1894 | MD & PM | https://github.com/ibrarian9
 Siti Nurhalizah | A156B4KX4176 | MD | https://github.com/halizahhhh 
-Ravy Ardian Kusuma | M001B4KY3704 | ML | 
+Ravy Ardian Kusuma | M001B4KY3704 | ML | https://github.com/aapiiw
 Nadya Mutia Safira | M156B4KX3212 | ML | https://github.com/NadyaMutia
-Dhea Fadhila Salsabila | M001B4KX1093 | ML | 
-Try Helviansyah | C546B4NY4367 | CC | 
+Dhea Fadhila Salsabila | M001B4KX1093 | ML | https://github.com/dheafs
+Try Helviansyah | C546B4NY4367 | CC | https://github.com/TryHelviansyah
 Mutiara Novitasari | C381B4KX3166 | CC | https://www.linkedin.com/in/mutiara-novitasari-0ba060250/
