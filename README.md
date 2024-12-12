@@ -12,12 +12,10 @@
    This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
    Program.
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="">View Demo</a>
+    <a href="https://drive.google.com/file/d/1MnJDAgkaCC7KscD_W4qzWYcea2s_9_il/view?usp=sharing">View Demo</a>
     ·
-    <a href="">Slide Pressentation</a>
+    <a href="https://drive.google.com/file/d/143P7asLrCoDRlHMwV9fWnCz6V-dXW7TI/view?usp=sharing">Slide Pressentation</a>
   </p>
 </p>
 
