@@ -16,6 +16,8 @@
     <a href="https://drive.google.com/file/d/1MnJDAgkaCC7KscD_W4qzWYcea2s_9_il/view?usp=sharing">View Demo</a>
     ·
     <a href="https://drive.google.com/file/d/143P7asLrCoDRlHMwV9fWnCz6V-dXW7TI/view?usp=sharing">Slide Presentation</a>
+     ·
+    <a href="https://youtu.be/idQrRjL1Y3k?si=P05Sw4gCHzOvHj0R">Video Presentation</a>
   </p>
 </p>
 
